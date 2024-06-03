@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jogifty
 - 👀 I’m interested in data analyst, data science, business intelligent tool
-- 🌱 I’m currently learning sql, business intelligent tool ( tableau, PowerBI), excel, python, cloud platform
+- 🌱 I’m currently learning SQL, business intelligent tool ( tableau, PowerBI), excel, python, cloud platform
 - 💞️ I’m looking to collaborate on various projects 
 - 📫 How to reach me ghontayjosephine@gmail.com
 - 😄 Pronouns: jojo, gifty
